@@ -1,5 +1,7 @@
 # CV-Maker
-CV Maker is an android app developed for school project.
+Resume Building Application project is an android application designed to assist users in creating and customizing professional resumes for job applications and career advancement. 
+This application leverages technology to simplify the often complex and time-consuming task of resume creation.
+
 
 # Tools
 Tools used in this project are:  
